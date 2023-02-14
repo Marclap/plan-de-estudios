@@ -1,6 +1,6 @@
 module.exports = {
     dest: 'docs',
-    base: 'plan-de-estudios',
+    base: '/plan-de-estudios/',
     title: 'Plan de estudios',
     description:
         'Acá se mostrará todo lo que veremos en el curso (todo está sujeto a cambios).',
